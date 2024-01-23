@@ -8,7 +8,7 @@ Thanks for checking out this front-end coding challenge.
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
-## [m07mmmad-nasr's solution](https://github.com/m07mmad-nasr/blog-preview-card-challenge-04)
+## [m07mmmad-nasr's solution](https://github.com/m07mmad-nasr/product-preview-card-challenge-05)
 
 ## Overview
 
@@ -24,10 +24,8 @@ Thanks for checking out this front-end coding challenge.
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/m07mmad-nasr/blog-preview-card-challenge-04)
-- Live Site URL: [Live Site](https://blog-preview-card-challenge-04.vercel.app/)
-
-## My process
+- Solution URL: [Solution](https://github.com/m07mmad-nasr/product-preview-card-challenge-05)
+- Live Site URL: [Live Site](https://product-preview-card-challenge-05.vercel.app/)
 
 ### Built with
 
